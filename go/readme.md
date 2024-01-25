@@ -1,3 +1,5 @@
+ref: https://zhuanlan.zhihu.com/p/319682047
+
 ### 编译选项
 - GOARCH, 目标平台的 CPU 架构. 常用的值 amd64, arm64, i386, armhf
 - GOOS, 目标平台, 常用的值 linux, windows, drawin (macOS)
